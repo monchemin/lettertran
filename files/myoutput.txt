@@ -1,0 +1,190 @@
+# 0 0.180392
+f	F	4
+o	F	-
+r	ER	-
+e	_	e
+v	EH:V	v
+e	R	e
+r	R	r
+
+# 1 0.099533
+f	F	4
+o	F	-
+r	ER	-
+e	_	e
+v	EH:V	v
+e	R	a
+r	R	r
+
+# 2 0.042219
+f	F	4
+o	F	-
+r	ER	-
+e	_	e
+v	EH:V	v
+e	R	a
+r	R	-
+
+# 3 0.042045
+f	F	4
+o	F	-
+r	ER	-
+e	_	e
+v	EH:V	v
+e	R	-
+r	R	-
+
+# 4 0.024148
+f	F	4
+o	F	-
+r	ER	-
+e	_	e
+v	EH:V	v
+e	R	e
+r	R	-
+
+# 5 0.015258
+f	F	4
+o	F	-
+r	ER	-
+e	_	e
+v	EH:V	v
+e	R	r
+r	R	r
+
+# 6 0.014713
+f	F	f
+o	F	-
+r	ER	-
+e	_	e
+v	EH:V	v
+e	R	e
+r	R	r
+
+# 7 0.013074
+f	F	4
+o	F	-
+r	ER	-
+e	_	e
+v	EH:V	r
+e	R	e
+r	R	r
+
+# 8 0.008118
+f	F	f
+o	F	-
+r	ER	-
+e	_	e
+v	EH:V	v
+e	R	a
+r	R	r
+
+# 9 0.007854
+f	F	4
+o	F	-
+r	ER	-
+e	_	e
+v	EH:V	v
+e	R	-
+r	R	r
+
+# 0 0.453032
+b	B	b
+i	ER	-
+r	ER	-
+t	TH	-
+h	TH	-
+d	D	d
+a	EY	a
+y	EY	y
+
+# 1 0.029948
+b	B	b
+i	ER	-
+r	ER	-
+t	TH	-
+h	TH	-
+d	D	d
+a	EY	a
+y	EY	-
+
+# 2 0.022890
+b	B	b
+i	ER	-
+r	ER	-
+t	TH	-
+h	TH	-
+d	D	-
+a	EY	a
+y	EY	y
+
+# 3 0.016134
+b	B	b
+i	ER	-
+r	ER	-
+t	TH	-
+h	TH	-
+d	D	d
+a	EY	-
+y	EY	-
+
+# 4 0.014035
+b	B	b
+i	ER	-
+r	ER	-
+t	TH	-
+h	TH	-
+d	D	-
+a	EY	-
+y	EY	-
+
+# 5 0.010057
+b	B	b
+i	ER	-
+r	ER	-
+t	TH	-
+h	TH	-
+d	D	d
+a	EY	a
+y	EY	a
+
+# 6 0.009570
+b	B	b
+i	ER	-
+r	ER	-
+t	TH	-
+h	TH	h
+d	D	d
+a	EY	a
+y	EY	y
+
+# 7 0.008479
+b	B	b
+i	ER	-
+r	ER	-
+t	TH	t
+h	TH	-
+d	D	d
+a	EY	a
+y	EY	y
+
+# 8 0.007326
+b	B	b
+i	ER	i
+r	ER	-
+t	TH	-
+h	TH	-
+d	D	d
+a	EY	a
+y	EY	y
+
+# 9 0.005761
+b	B	b
+i	ER	-
+r	ER	-
+t	TH	-
+h	TH	-
+d	D	d
+a	EY	-
+y	EY	y
+
